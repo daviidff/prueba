@@ -1,0 +1,1089 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ES:-----|ES Entretenimiento|--------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES-----|Espana|--------------------.png" group-title="ES Ent",ES:-----|ES Entretenimiento|--------------------
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/60623
+#EXTINF:-1 tvg-id="24.horas.es" tvg-name="ES002:24 Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES002 24Horas.png" group-title="ES Ent",ES002:24 Horas
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2602
+#EXTINF:-1 tvg-id="24.horas.es" tvg-name="ES253:24 Horas SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES25324-Horas.png" group-title="ES Ent",ES253:24 Horas SD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52354
+#EXTINF:-1 tvg-id="antena.3.es" tvg-name="ES005:Antena 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES005Antena3.png" group-title="ES Ent",ES005:Antena 3 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2599
+#EXTINF:-1 tvg-id="calle.13.es" tvg-name="ES012:Calle 13 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES012Calle13.png" group-title="ES Ent",ES012:Calle 13 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2592
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES070:TNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES070TNTES.png" group-title="ES Ent",ES070:TNT HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2534
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES220:TNT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES220TNT.png" group-title="ES Ent",ES220:TNT FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52387
+#EXTINF:-1 tvg-id="ten.es" tvg-name="ES078:TEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES078MovistarCineDoc&Roll.png" group-title="ES Ent",ES078:TEN
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29314
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES043:Fox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES043FoxES.png" group-title="ES Ent",ES043:Fox HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2561
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES210:Gracia TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES210FOXHD.png" group-title="ES Ent",ES210:Gracia TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52397
+#EXTINF:-1 tvg-id="fox.life.es" tvg-name="ES044:Fox Life HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES044FoxLifeES.png" group-title="ES Ent",ES044:Fox Life HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2560
+#EXTINF:-1 tvg-id="fox.life.es" tvg-name="ES209:FOX Life HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES209FOXLifeHD.png" group-title="ES Ent",ES209:FOX Life HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52398
+#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES052:La Sexta HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES052LaSexta.png" group-title="ES Ent",ES052:La Sexta HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2552
+#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES197:la sexta FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES197lasextaHD.png" group-title="ES Ent",ES197:la sexta FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52410
+#EXTINF:-1 tvg-id="canal.sur.es" tvg-name="ES109:Canal Sur Andalucia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES109CANALSURA.png" group-title="ES Ent",ES109:Canal Sur Andalucia
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29283
+#EXTINF:-1 tvg-id="canal.sur.es" tvg-name="ES206:Canal Sur" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES206CanalSurHD.png" group-title="ES Ent",ES206:Canal Sur
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52401
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES208:TVE CLAN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES208SYFY.png" group-title="ES Ent",ES208:TVE CLAN
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52399
+#EXTINF:-1 tvg-id="vh1.es" tvg-name="ES111:VH1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES111VH1.png" group-title="ES Ent",ES111:VH1
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29281
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES211:8TV Madrid" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES211AXNWhiteHD.png" group-title="ES Ent",ES211:8TV Madrid
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52396
+#EXTINF:-1 tvg-id="calle.13.es" tvg-name="ES213:Calle 13 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES213Calle13HD.png" group-title="ES Ent",ES213:Calle 13 FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52394
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES067:TCM ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES067TCMES.png" group-title="ES Ent",ES067:TCM ES
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2537
+#EXTINF:-1 tvg-id="paramount.es" tvg-name="ES222:Paramount Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES222ParamountChannel.png" group-title="ES Ent",ES222:Paramount Channel
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52385
+#EXTINF:-1 tvg-id="paramount.es" tvg-name="ES065:Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES065Paramount.png" group-title="ES Ent",ES065:Paramount
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2539
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES167:Sundance TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES167SUNDANCEFHD.png" group-title="ES Ent",ES167:Sundance TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29225
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES047:Hollywood" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES047Hollywood.png" group-title="ES Ent",ES047:Hollywood
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2557
+#EXTINF:-1 tvg-id="comedy.central.es" tvg-name="ES030:Comedy Central HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES030ComedyCentral.png" group-title="ES Ent",ES030:Comedy Central HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2574
+#EXTINF:-1 tvg-id="comedy.central.es" tvg-name="ES221:Comedy Central FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES221ComedyCentral.png" group-title="ES Ent",ES221:Comedy Central FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52386
+#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES029:Clan Tve" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES029ClanTve.png" group-title="ES Ent",ES029:Clan Tve
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2575
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES004:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES004AMCES.png" group-title="ES Ent",ES004:AMC HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2600
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES255:7RM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES255AMC.png" group-title="ES Ent",ES255:7RM
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52352
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES178:TV3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES178TVGalicia.png" group-title="ES Ent",ES178:TV3 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29214
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES154:Galicia TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES154GALICIATV.png" group-title="ES Ent",ES154:Galicia TV HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29238
+#EXTINF:-1 tvg-id="dark.es" tvg-name="ES236:Dark HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES236DarkHD.png" group-title="ES Ent",ES236:Dark HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52371
+#EXTINF:-1 tvg-id="es." tvg-name="ES001:#0 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES001#0 HD.png" group-title="ES Ent",ES001:#0 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2603
+#EXTINF:-1 tvg-id="a.e.es" tvg-name="ES003:A&E ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES003A&EES.png" group-title="ES Ent",ES003:A&E ES
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2601
+#EXTINF:-1 tvg-id="somos.es" tvg-name="ES081:SOMOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES081SOMOS.png" group-title="ES Ent",ES081:SOMOS
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29311
+#EXTINF:-1 tvg-id="canal.decasa.es" tvg-name="ES061:Canal De Casa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES061CanalDECase.png" group-title="ES Ent",ES061:Canal De Casa
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2543
+#EXTINF:-1 tvg-id="40tv.es" tvg-name="ES093:Sevilla TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES09340TV.png" group-title="ES Ent",ES093:Sevilla TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29299
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES124:TRECE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES124SyfyHD.png" group-title="ES Ent",ES124:TRECE
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29268
+#EXTINF:-1 tvg-id="canal.las.estrellas.es" tvg-name="ES141:Canal de las Estrellas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES141CanaldelasEstrellas.png" group-title="ES Ent",ES141:Canal de las Estrellas
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29251
+#EXTINF:-1 tvg-id="" tvg-name="ES152:Esperanza TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES152EsperanzaTV.png" group-title="ES Ent",ES152:Esperanza TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29240
+#EXTINF:-1 tvg-id="" tvg-name="ES155:ETB 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES155AztecaHonduras.png" group-title="ES Ent",ES155:ETB 1
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29237
+#EXTINF:-1 tvg-id="mezzo.live.es" tvg-name="ES157:ETB 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES157MEZZOLIVEFHD.png" group-title="ES Ent",ES157:ETB 2
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29235
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="ES175:Telemadrid FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES175TELEMADRIDFHD.png" group-title="ES Ent",ES175:Telemadrid FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29217
+#EXTINF:-1 tvg-id="telesur.es" tvg-name="ES176:Canal Sur" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES176TELESURHD.png" group-title="ES Ent",ES176:Canal Sur
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29216
+#EXTINF:-1 tvg-id="tv3.cat.es" tvg-name="ES179:TV3 Cat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES179TV3Cat.png" group-title="ES Ent",ES179:TV3 Cat
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29213
+#EXTINF:-1 tvg-id="" tvg-name="ES180:TVE 24H" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES180TVE24H.png" group-title="ES Ent",ES180:TVE 24H
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29212
+#EXTINF:-1 tvg-id="tve.internacional.es" tvg-name="ES181:TVE Internacional" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES181TVEInternacional.png" group-title="ES Ent",ES181:TVE Internacional
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29211
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES195:Dream Works" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES195NCuatroHD.png" group-title="ES Ent",ES195:Dream Works
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52412
+#EXTINF:-1 tvg-id="" tvg-name="ES256:(Pluto) MTV Cribs" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES256ODESSEIA.png" group-title="ES Ent",ES256:(Pluto) MTV Cribs
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52351
+#EXTINF:-1 tvg-id="" tvg-name="ES273:XTRM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES273DWHD.png" group-title="ES Ent",ES273:XTRM HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52334
+#EXTINF:-1 tvg-id="" tvg-name="ES140:FOX NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES140CanalDCINEHD.png" group-title="ES Ent",ES140:FOX NEWS
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29252
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES120:Futbol Replay" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES120CBN.png" group-title="ES Ent",ES120:Futbol Replay
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29272
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES049:LA 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES049LA1.png" group-title="ES Ent",ES049:LA 1 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2555
+#EXTINF:-1 tvg-id="la.1.es" tvg-name="ES277:LA 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES277LA1.png" group-title="ES Ent",ES277:LA 1 FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52330
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES050:LA 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES050LA2.png" group-title="ES Ent",ES050:LA 2 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2554
+#EXTINF:-1 tvg-id="" tvg-name="ES249:TVM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES249MovistarAlquilerMultivision2.png" group-title="ES Ent",ES249:TVM HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52358
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES272:Estrella News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Ent",ES272:Estrella News
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52335
+#EXTINF:-1 tvg-id="" tvg-name="ES:-----|ES Deportes|--------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES-----|SPORTS|--------------------.png" group-title="ES Deportes",ES:-----|ES Deportes|--------------------
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/60624
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES069:Teledeport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES069Teledeport.png" group-title="ES Deportes",ES069:Teledeport
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2535
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES163:Teledeporte HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES163Teledeporte.png" group-title="ES Deportes",ES163:Teledeporte HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29229
+#EXTINF:-1 tvg-id="barca.es" tvg-name="ES009:Barca TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES009BarcaTV.png" group-title="ES Deportes",ES009:Barca TV HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2595
+#EXTINF:-1 tvg-id="barca.es" tvg-name="ES153:Barca TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES153BARCATV.png" group-title="ES Deportes",ES153:Barca TV SD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29239
+#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="ES151:Real Madrid TVHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES151RealMadridTV.png" group-title="ES Deportes",ES151:Real Madrid TVHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29241
+#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="ES243:Real Madrid TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES243RealMadridTV.png" group-title="ES Deportes",ES243:Real Madrid TV SD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52364
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES191:Movistar Formula 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES191MFORMULA1HD.png" group-title="ES Deportes",ES191:Movistar Formula 1 FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52416
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES026:Movistar Formula 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES026MFormula1.png" group-title="ES Deportes",ES026:Movistar Formula 1 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2578
+#EXTINF:-1 tvg-id="movistar.f1.es" tvg-name="ES242:DAZN Formula 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES242MovistarF1.png" group-title="ES Deportes",ES242:DAZN Formula 1 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52365
+#EXTINF:-1 tvg-id="movistar.golf.es" tvg-name="ES190:Movistar GOLF FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES190MGOLFHD.png" group-title="ES Deportes",ES190:Movistar GOLF FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52417
+#EXTINF:-1 tvg-id="movistar.golf.es" tvg-name="ES018:Movistar GOLF HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES018MGolf.png" group-title="ES Deportes",ES018:Movistar GOLF HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2586
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES263:Movistar GOLF SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES263CANALGOLF.png" group-title="ES Deportes",ES263:Movistar GOLF SD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52344
+#EXTINF:-1 tvg-id="m..deportes.1.es" tvg-name="ES017:M.Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES017MFutbol.png" group-title="ES Deportes",ES017:M.Deportes
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2587
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES015:M Deportes 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES015MDeportes1.png" group-title="ES Deportes",ES015:M Deportes 1
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2589
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES014:M Deportes 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES014MDeportes2.png" group-title="ES Deportes",ES014:M Deportes 2
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2590
+#EXTINF:-1 tvg-id="m.deportes.3.es" tvg-name="ES086:M+ Deportes 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES086CanalDEPORTESHD.png" group-title="ES Deportes",ES086:M+ Deportes 3
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29306
+#EXTINF:-1 tvg-id="m.deportes.4.es" tvg-name="ES087:M+ Deportes 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES087CanalDEPORTES2HD.png" group-title="ES Deportes",ES087:M+ Deportes 4
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29305
+#EXTINF:-1 tvg-id="m.deportes.5.es" tvg-name="ES133:M+ Deportes 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES133M. DEPORTES 1.png" group-title="ES Deportes",ES133:M+ Deportes 5
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29259
+#EXTINF:-1 tvg-id="m.deportes.6.es" tvg-name="ES135:M+ Deportes 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES135M. DEPORTES 3.png" group-title="ES Deportes",ES135:M+ Deportes 6
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29257
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES045:GOL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES045GOLTV.png" group-title="ES Deportes",ES045:GOL TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2559
+#EXTINF:-1 tvg-id="m..liga.campeones.1.es" tvg-name="ES010:M Liga de Campeones HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES010MLigadeCam.png" group-title="ES Deportes",ES010:M Liga de Campeones HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2594
+#EXTINF:-1 tvg-id="m.liga.campeones.1.es" tvg-name="ES182:M+ Liga de Campeones 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES182M1.png" group-title="ES Deportes",ES182:M+ Liga de Campeones 1
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52425
+#EXTINF:-1 tvg-id="m.liga.campeones.2.es" tvg-name="ES183:M+ Liga de Campeones  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES183M2.png" group-title="ES Deportes",ES183:M+ Liga de Campeones  2
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52424
+#EXTINF:-1 tvg-id="m.liga.campeones.3.es" tvg-name="ES184:M+ Liga de Campeones 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES184M3.png" group-title="ES Deportes",ES184:M+ Liga de Campeones 3
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52423
+#EXTINF:-1 tvg-id="m.liga.campeones.4.es" tvg-name="ES185:M+ Liga de Campeones 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES185M4.png" group-title="ES Deportes",ES185:M+ Liga de Campeones 4
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52422
+#EXTINF:-1 tvg-id="m.liga.campeones.5.es" tvg-name="ES186:M+ Liga de Campeones 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES186M5.png" group-title="ES Deportes",ES186:M+ Liga de Campeones 5
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52421
+#EXTINF:-1 tvg-id="m.liga.campeones.6.es" tvg-name="ES187:M+ Liga de Campeones 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES187Movistar Ligade Campeones.png" group-title="ES Deportes",ES187:M+ Liga de Campeones 6
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52420
+#EXTINF:-1 tvg-id="m.liga.campeones.7.es" tvg-name="ES188:M+ Liga de Campeones 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES188MovistarLigadeCampeones 2.png" group-title="ES Deportes",ES188:M+ Liga de Campeones 7
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52419
+#EXTINF:-1 tvg-id="m.liga.campeones.8.es" tvg-name="ES189:M+ Liga de Campeones 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES189M8.png" group-title="ES Deportes",ES189:M+ Liga de Campeones 8
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52418
+#EXTINF:-1 tvg-id="canal.futbol.replay.es" tvg-name="ES085:M+ Liga de Campeones 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES085M LigadeCampeones.png" group-title="ES Deportes",ES085:M+ Liga de Campeones 9
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29307
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES173:M+ Liga de Campeones 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES173MLigadeCampeones4.png" group-title="ES Deportes",ES173:M+ Liga de Campeones 10
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29219
+#EXTINF:-1 tvg-id="m.liga.campeones.11.es" tvg-name="ES250:M+ Liga de Campeones 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Deportes",ES250:M+ Liga de Campeones 11
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52357
+#EXTINF:-1 tvg-id="m.liga.campeones.12.es" tvg-name="ES274:M+ Liga de Campeones 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Deportes",ES274:M+ Liga de Campeones 12
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52333
+#EXTINF:-1 tvg-id="eurosport.1.es" tvg-name="ES040:EUROSPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES040EuroSport1.png" group-title="ES Deportes",ES040:EUROSPORT 1 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2564
+#EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="ES041:EUROSPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES041EuroSport2.png" group-title="ES Deportes",ES041:EUROSPORT 2 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2563
+#EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="ES275:EUROSPORT 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES275EUROSPORT2.png" group-title="ES Deportes",ES275:EUROSPORT 2 SD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52332
+#EXTINF:-1 tvg-id="" tvg-name="ES089:M+ Dazn LaLiga 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES089" group-title="ES Deportes",ES089:M+ Dazn LaLiga 1
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29303
+#EXTINF:-1 tvg-id="laliga.123.es" tvg-name="ES156:M+ Dazn LaLiga 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES156" group-title="ES Deportes",ES156:M+ Dazn LaLiga 2
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29236
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES134:#VolverEsGanar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES134M. DEPORTES 2.png" group-title="ES Deportes",ES134:#VolverEsGanar
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29258
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES172:Dazn ES ( Match time only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES172:DaznES.png" group-title="ES Deportes",ES172:Dazn ES ( Match time only)
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29220
+#EXTINF:-1 tvg-id="laliga.es" tvg-name="ES051:LaLiga TV Bar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES051LaLigaTV.png" group-title="ES Deportes",ES051:LaLiga TV Bar
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2553
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES020:Toros TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES020Toros.png" group-title="ES Deportes",ES020:Toros TV HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2584
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES231:Toros TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES231TorosTv.png" group-title="ES Deportes",ES231:Toros TV FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52376
+#EXTINF:-1 tvg-id="moto.gp.es" tvg-name="ES027:Movistar MotoGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES027MMotoGP.png" group-title="ES Deportes",ES027:Movistar MotoGP
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2577
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES079:Vamos HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES079Vamos.png" group-title="ES Deportes",ES079:Vamos HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29313
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES132:Vamos FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES132VamosFHD.png" group-title="ES Deportes",ES132:Vamos FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29260
+#EXTINF:-1 tvg-id="m..laliga.es" tvg-name="ES121:MOVISTAR LaLiga HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES121MOVISTAR LaLiga.png" group-title="ES Deportes",ES121:MOVISTAR LaLiga HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29271
+#EXTINF:-1 tvg-id="canal+.liga.es" tvg-name="ES084:M. LaLiga FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES084MLaLIGA.png" group-title="ES Deportes",ES084:M. LaLiga FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29308
+#EXTINF:-1 tvg-id="m..laliga.es" tvg-name="ES092:M. LaLiga HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES092MOVISTARLiga.png" group-title="ES Deportes",ES092:M. LaLiga HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29300
+#EXTINF:-1 tvg-id="m.fest.es" tvg-name="ES136:M+ Fest" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES136MLaLiga1.png" group-title="ES Deportes",ES136:M+ Fest
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29256
+#EXTINF:-1 tvg-id="ubeat.es" tvg-name="ES137:Ubeat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES137MLaLiga2.png" group-title="ES Deportes",ES137:Ubeat
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29255
+#EXTINF:-1 tvg-id="bein.laliga.es" tvg-name="ES138:BeiN La Liga" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES138MLaLiga3.png" group-title="ES Deportes",ES138:BeiN La Liga
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29254
+#EXTINF:-1 tvg-id="m.laliga.1.es" tvg-name="ES095:M+ LaLiga 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES095MOVISTAR LaLiga.png" group-title="ES Deportes",ES095:M+ LaLiga 1
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29297
+#EXTINF:-1 tvg-id="m.laliga.2.es" tvg-name="ES096:M+ LaLiga 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES096MOVISTAR Laliga.png" group-title="ES Deportes",ES096:M+ LaLiga 2
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29296
+#EXTINF:-1 tvg-id="m.laliga.3.es" tvg-name="ES123:M+ LaLiga 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES123MLaliga6.png" group-title="ES Deportes",ES123:M+ LaLiga 3
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29269
+#EXTINF:-1 tvg-id="m.laliga.4.es" tvg-name="ES125:M+ LaLiga 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES125MLaliga7.png" group-title="ES Deportes",ES125:M+ LaLiga 4
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29267
+#EXTINF:-1 tvg-id="m.laliga.5.es" tvg-name="ES131:M+ LaLiga 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES131MLaliga8.png" group-title="ES Deportes",ES131:M+ LaLiga 5
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29261
+#EXTINF:-1 tvg-id="" tvg-name="ES144:Horse TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES144" group-title="ES Deportes",ES144:Horse TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29248
+#EXTINF:-1 tvg-id="disney.xd.es" tvg-name="ES202:PPV 1 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES202" group-title="ES Deportes",ES202:PPV 1 (LIVE EVENT)
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52405
+#EXTINF:-1 tvg-id="es." tvg-name="ES252:PPV 3 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES252" group-title="ES Deportes",ES252:PPV 3 (LIVE EVENT)
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52355
+#EXTINF:-1 tvg-id="" tvg-name="ES164:PPV 4 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES164" group-title="ES Deportes",ES164:PPV 4 (LIVE EVENT)
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29228
+#EXTINF:-1 tvg-id="" tvg-name="ES165:PPV 5 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES165" group-title="ES Deportes",ES165:PPV 5 (LIVE EVENT)
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29227
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES193:Movistar Futbol FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES193M FUTBOL.png" group-title="ES Deportes",ES193:Movistar Futbol FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52414
+#EXTINF:-1 tvg-id="canal.parlamento.es" tvg-name="ES207:ESPN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES207ESPN.png" group-title="ES Deportes",ES207:ESPN
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52400
+#EXTINF:-1 tvg-id="movistar.el.partidazo.es" tvg-name="ES241:Movistar Partidazo HD (event only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES241MovistarPartidazoHD(eventonly).png" group-title="ES Deportes",ES241:Movistar Partidazo HD (event only)
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52366
+#EXTINF:-1 tvg-id="movistar.deportes.2.es" tvg-name="ES251:Multi Deporte" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES251CanalDeportes.png" group-title="ES Deportes",ES251:Multi Deporte
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52356
+#EXTINF:-1 tvg-id="bein.sports.es" tvg-name="ES257:BeinSport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES257BeinSportHD.png" group-title="ES Deportes",ES257:BeinSport HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52350
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES122:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES122MOVISTAR LaLiga.png" group-title="ES Deportes",ES122:DAZN 1
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29270
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES166:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES166DAZNMOTOGP.png" group-title="ES Deportes",ES166:DAZN 2
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29226
+#EXTINF:-1 tvg-id="movistar.laliga.es" tvg-name="ES258:DAZN 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES258DAZN2.png" group-title="ES Deportes",ES258:DAZN 4
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52349
+#EXTINF:-1 tvg-id="40.graus.br" tvg-name="ES174:DAZN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES174M.LIGADECAMPEONES6.png" group-title="ES Deportes",ES174:DAZN 3
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29218
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES266:CANAL Toros TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES266CANALTorosTV.png" group-title="ES Deportes",ES266:CANAL Toros TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52341
+#EXTINF:-1 tvg-id="" tvg-name="ES:-----|ES Cultura|---------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES-----|Documentary|---------------.png" group-title="ES Cultura",ES:-----|ES Cultura|---------------
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/60627
+#EXTINF:-1 tvg-id="crimen.investigacion.es" tvg-name="ES032:Crimen+ Investigacion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES032CrimenInvestigation.png" group-title="ES Cultura",ES032:Crimen+ Investigacion
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2572
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES071:Viajar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES071Viajar.png" group-title="ES Cultura",ES071:Viajar
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2533
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES083:Espranza TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES083VIAJARHD.png" group-title="ES Cultura",ES083:Espranza TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29309
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES145:Viajar FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES145VIAJARFHD.png" group-title="ES Cultura",ES145:Viajar FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29247
+#EXTINF:-1 tvg-id="national.geographic.es" tvg-name="ES057:NAT GEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES057NATGEOES.png" group-title="ES Cultura",ES057:NAT GEO HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2547
+#EXTINF:-1 tvg-id="national.geographic.es" tvg-name="ES228:National Geographic FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES228NationalGeographic.png" group-title="ES Cultura",ES228:National Geographic FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52379
+#EXTINF:-1 tvg-id="nat.geo.wild.es" tvg-name="ES056:NAT GEO WILD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES056NATGEOWILDES.png" group-title="ES Cultura",ES056:NAT GEO WILD HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2548
+#EXTINF:-1 tvg-id="national.geographic.wild.es" tvg-name="ES229:Nat Geo Wild FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES229NatGeoWild.png" group-title="ES Cultura",ES229:Nat Geo Wild FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52378
+#EXTINF:-1 tvg-id="caza.y.pesca.es" tvg-name="ES028:Caza Y Pesca HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES028CazaYPesca.png" group-title="ES Cultura",ES028:Caza Y Pesca HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2576
+#EXTINF:-1 tvg-id="caza.y.pesca.es" tvg-name="ES268:Caza Y Pesca FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES268CAZA-Y-PESCA.png" group-title="ES Cultura",ES268:Caza Y Pesca FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52339
+#EXTINF:-1 tvg-id="iberalia.es" tvg-name="ES048:Iberalia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES048Iberalia.png" group-title="ES Cultura",ES048:Iberalia
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2556
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES046:Historia HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES046Historia.png" group-title="ES Cultura",ES046:Historia HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2558
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES230:Historia SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES230Historia.png" group-title="ES Cultura",ES230:Historia SD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52377
+#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES075:GOL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES075EXTREMADURATV.png" group-title="ES Cultura",ES075:GOL TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29317
+#EXTINF:-1 tvg-id="" tvg-name="ES148:TVE LA 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES148TVELA2HD.png" group-title="ES Ent",ES148:TVE LA 2 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29244
+#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES129:TVE LA 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES129ExtremaduraTV.png" group-title="ES Cultura",ES129:TVE LA 1 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29263
+#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES142:BE MAD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES142ExtremaduraTV.png" group-title="ES Cultura",ES142:BE MAD HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29250
+#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES074:Extremadura HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES074ExtremaduraHD.png" group-title="ES Cultura",ES074:Extremadura HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29318
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES073:DKISS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES073DKISS.png" group-title="ES Cultura",ES073:DKISS
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29319
+#EXTINF:-1 tvg-id="orbe.21.es" tvg-name="ES150:Orbe 21" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES150Orbe21.png" group-title="ES Cultura",ES150:Orbe 21
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29242
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES097:DMAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES097DMAX.png" group-title="ES Cultura",ES097:DMAX
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29295
+#EXTINF:-1 tvg-id="canal.decasa.es" tvg-name="ES238:Canal 26" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES238CanalDeCasa.png" group-title="ES Cultura",ES238:Canal 26
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52369
+#EXTINF:-1 tvg-id="discovery.es" tvg-name="ES034:Discovery Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES034DiscoveryES.png" group-title="ES Cultura",ES034:Discovery Channel HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2570
+#EXTINF:-1 tvg-id="discovery.es" tvg-name="ES271:Nonstop People" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Cultura",ES271:Nonstop People
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52336
+#EXTINF:-1 tvg-id="fdf.telecinco.es" tvg-name="ES042:FDF TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES042FDF.png" group-title="ES Cultura",ES042:FDF TV HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2562
+#EXTINF:-1 tvg-id="fdf.telecinco.es" tvg-name="ES276:FDF TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES276FDFSPAIN.png" group-title="ES Cultura",ES276:FDF TV SD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52331
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES038:Divinity HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES038Divinity.png" group-title="ES Cultura",ES038:Divinity HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2566
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES080:Blaze TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES080BLAZE.png" group-title="ES Cultura",ES080:Blaze TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29312
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES054:Mega HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES054Mega.png" group-title="ES Cultura",ES054:Mega HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2550
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES161:Mega" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES161Mega.png" group-title="ES Cultura",ES161:Mega
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29231
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES234:Mega" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES234Mega.png" group-title="ES Cultura",ES234:Mega
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52373
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES031:Cosmo HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES031Cosmo.png" group-title="ES Cultura",ES031:Cosmo HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2573
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES237:Cosmo FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES237CosmoFHD.png" group-title="ES Cultura",ES237:Cosmo FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52370
+#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES022:Cocina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES022Cocina.png" group-title="ES Cultura",ES022:Cocina
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2582
+#EXTINF:-1 tvg-id="decasa.es" tvg-name="ES024:DeCasa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES024DeCasa.png" group-title="ES Cultura",ES024:DeCasa
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2580
+#EXTINF:-1 tvg-id="caza.y.pesca.es" tvg-name="ES270:Caza Y Pesca SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES270Decasa.png" group-title="ES Cultura",ES270:Caza Y Pesca SD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52337
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ES039:Energy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES039Energy.png" group-title="ES Cultura",ES039:Energy HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2565
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ES226:Energy SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES226Energy.png" group-title="ES Cultura",ES226:Energy SD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52381
+#EXTINF:-1 tvg-id="" tvg-name="ES:-----|ES Cine|--------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES-----|CINEMA|--------------------.png" group-title="ES Cine",ES:-----|ES Cine|--------------------
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/60625
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES006:AXN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES006AXNES.png" group-title="ES Cine",ES006:AXN HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2598
+#EXTINF:-1 tvg-id="axn.white.es" tvg-name="ES007:AXN White HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES007AXNWhite.png" group-title="ES Cine",ES007:AXN White HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2597
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES066:Syfy ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES066SyfyES.png" group-title="ES Cine",ES066:Syfy ES
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2538
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES068:Telecinco HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES068Telecinco.png" group-title="ES Cine",ES068:Telecinco HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2536
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES160:Telecinco FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES160Telecinco.png" group-title="ES Cine",ES160:Telecinco FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29232
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES162:Telecinco SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES162Telecinco.png" group-title="ES Cine",ES162:Telecinco SD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29230
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES033:Cuatro HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES033Cuatro.png" group-title="ES Cine",ES033:Cuatro HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2571
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES159:Extra Madura TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES159Cuatro.png" group-title="ES Cine",ES159:Extra Madura TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29233
+#EXTINF:-1 tvg-id="aragon.es" tvg-name="ES072:Aragon TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES072ARAGONTV.png" group-title="ES Ent",ES072:Aragon TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29320
+#EXTINF:-1 tvg-id="aragon.es" tvg-name="ES119:(Pluto) MTV Catfish" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES119ARAGONTV.png" group-title="ES Cine",ES119:(Pluto) MTV Catfish
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29273
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES062:NOVA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES062NOVA.png" group-title="ES Cine",ES062:NOVA
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2542
+#EXTINF:-1 tvg-id="andalucia.es" tvg-name="ES118:Andalucia TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES118AndaluciaTV.png" group-title="ES Cine",ES118:Andalucia TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29274
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES108:Canal Cocina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Cine",ES108:Canal Cocina
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29284
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES063:Odisea" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES063Odisea.png" group-title="ES Cine",ES063:Odisea
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2541
+#EXTINF:-1 tvg-id="" tvg-name="ES098:Taquilla 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES098TAQUILLA1.png" group-title="ES Cine",ES098:Taquilla 1 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29294
+#EXTINF:-1 tvg-id="" tvg-name="ES099:Taquilla 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES099TAQUILLA10.png" group-title="ES Cine",ES099:Taquilla 2 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29293
+#EXTINF:-1 tvg-id="" tvg-name="ES100:Taquilla 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES100TAQUILLA2.png" group-title="ES Cine",ES100:Taquilla 3 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29292
+#EXTINF:-1 tvg-id="" tvg-name="ES101:Taquilla 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES101TAQUILLA3.png" group-title="ES Cine",ES101:Taquilla 4 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29291
+#EXTINF:-1 tvg-id="" tvg-name="ES102:Taquilla 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES102TAQUILLA4.png" group-title="ES Cine",ES102:Taquilla 5 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29290
+#EXTINF:-1 tvg-id="" tvg-name="ES103:Taquilla 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES103TAQUILLA5.png" group-title="ES Cine",ES103:Taquilla 6 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29289
+#EXTINF:-1 tvg-id="" tvg-name="ES104:Taquilla 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES104TAQUILLA6.png" group-title="ES Cine",ES104:Taquilla 7 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29288
+#EXTINF:-1 tvg-id="" tvg-name="ES105:Taquilla 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES105TAQUILLA7.png" group-title="ES Cine",ES105:Taquilla 8 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29287
+#EXTINF:-1 tvg-id="" tvg-name="ES106:Taquilla 9 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES106TAQUILLA8.png" group-title="ES Cine",ES106:Taquilla 9 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29286
+#EXTINF:-1 tvg-id="" tvg-name="ES107:Taquilla 10 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES107TAQUILLA9.png" group-title="ES Cine",ES107:Taquilla 10 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29285
+#EXTINF:-1 tvg-id="" tvg-name="ES126:Taquilla 11 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES126TAQUILLA1HD.png" group-title="ES Cine",ES126:Taquilla 11 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29266
+#EXTINF:-1 tvg-id="" tvg-name="ES127:Taquilla 12 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES127TAQUILLA4HD.png" group-title="ES Cine",ES127:Taquilla 12 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29265
+#EXTINF:-1 tvg-id="movistar.series.es" tvg-name="ES090:Canal Series HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES090CanalSERIESHD.png" group-title="ES Cine",ES090:Canal Series HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29302
+#EXTINF:-1 tvg-id="" tvg-name="ES128:Movistar Taquilla 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES128TAQUILLA6HD.png" group-title="ES Cine",ES128:Movistar Taquilla 1 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29264
+#EXTINF:-1 tvg-id="" tvg-name="ES168:Movistar Taquilla 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES168TAQUILLA2HD.png" group-title="ES Cine",ES168:Movistar Taquilla 2 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29224
+#EXTINF:-1 tvg-id="" tvg-name="ES169:Movistar Taquilla 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES169TAQUILLA3HD.png" group-title="ES Cine",ES169:Movistar Taquilla 4 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29223
+#EXTINF:-1 tvg-id="" tvg-name="ES170:Movistar Taquilla 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES170TAQUILLA5HD.png" group-title="ES Cine",ES170:Movistar Taquilla 5 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29222
+#EXTINF:-1 tvg-id="" tvg-name="ES171:Movistar Taquilla 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES171TAQUILLA7HD.png" group-title="ES Cine",ES171:Movistar Taquilla 8 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29221
+#EXTINF:-1 tvg-id="antena.3.es" tvg-name="ES177:Antena 3 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES177Antena3HD.png" group-title="ES Cine",ES177:Antena 3 SD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29215
+#EXTINF:-1 tvg-id="antena.3.es" tvg-name="ES192:Antena 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES192Antena3HD.png" group-title="ES Cine",ES192:Antena 3 FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52415
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES223:Hollywood HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES223HollywoodHD.png" group-title="ES Cine",ES223:Hollywood HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52384
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES233:Nova" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES233Nova.png" group-title="ES Cine",ES233:Nova
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52374
+#EXTINF:-1 tvg-id="" tvg-name="ES225:Levante TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES225TelevisaHD.png" group-title="ES Ent",ES225:Levante TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52382
+#EXTINF:-1 tvg-id="movistar.accion.es" tvg-name="ES259:Canal Orbe 21" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES259CANALACCIONHD.png" group-title="ES Cine",ES259:Canal Orbe 21
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52348
+#EXTINF:-1 tvg-id="movistar.comedia.es" tvg-name="ES260:CANAL Comedia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES260CANALComedia.png" group-title="ES Cine",ES260:CANAL Comedia
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52347
+#EXTINF:-1 tvg-id="movistar.dcine.es" tvg-name="ES088:Canal Dcine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES088CanalDCINEHD.png" group-title="ES Cine",ES088:Canal Dcine
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29304
+#EXTINF:-1 tvg-id="" tvg-name="ES:-----|ES Movistar|--------------" tvg-logo="" group-title="ES Movistar",ES:-----|ES Movistar|--------------
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/62168
+#EXTINF:-1 tvg-id="movistar.estrenos.es" tvg-name="ES219:Movistar Estrenos 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES219MovistarEstrenos.png" group-title="ES Movistar",ES219:Movistar Estrenos 2
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52388
+#EXTINF:-1 tvg-id="YesAction.il" tvg-name="ES013:Movistar Accion HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES013MAction.png" group-title="ES Movistar",ES013:Movistar Accion HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2591
+#EXTINF:-1 tvg-id="movistar.estrenos.es" tvg-name="ES016:Movistar Estrenos HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES016MEstrenos.png" group-title="ES Movistar",ES016:Movistar Estrenos HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2588
+#EXTINF:-1 tvg-id="movistar.accion.es" tvg-name="ES214:Movistar Accion SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES214MovistarAccion.png" group-title="ES Movistar",ES214:Movistar Accion SD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52393
+#EXTINF:-1 tvg-id="movistar.series.es" tvg-name="ES224:Movistar Series FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES224MoviestarSeries.png" group-title="ES Movistar",ES224:Movistar Series FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52383
+#EXTINF:-1 tvg-id="movistar.series.es" tvg-name="ES025:Movistar Series 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES025MSERIESHD.png" group-title="ES Movistar",ES025:Movistar Series 2 HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2579
+#EXTINF:-1 tvg-id="movistar.cine.espanol.es" tvg-name="ES077:MoviStar Cine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES077MoviStarCine.png" group-title="ES Movistar",ES077:MoviStar Cine
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29315
+#EXTINF:-1 tvg-id="movistar.comedia.es" tvg-name="ES053:Movistar Comedia HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES053MComedia.png" group-title="ES Movistar",ES053:Movistar Comedia HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2551
+#EXTINF:-1 tvg-id="movistar.series.xtra.es" tvg-name="ES019:Movistar Series Xtra HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES019MSeriesXtra.png" group-title="ES Movistar",ES019:Movistar Series Xtra HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2585
+#EXTINF:-1 tvg-id="movistar.xtra.es" tvg-name="ES021:Movistar Xtra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES021MXtra.png" group-title="ES Movistar",ES021:Movistar Xtra
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2583
+#EXTINF:-1 tvg-id="movistar.dcine.es" tvg-name="ES023:Movistar Dcine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES023MDcine.png" group-title="ES Movistar",ES023:Movistar Dcine
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2581
+#EXTINF:-1 tvg-id="movistar.cine.espanol.es" tvg-name="ES158:Movistar CineDoc&Roll HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES158MoviStarCINE.png" group-title="ES Movistar",ES158:Movistar CineDoc&Roll HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29234
+#EXTINF:-1 tvg-id="movistar.dcine.es" tvg-name="ES216:Movistar Seriesmania FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES216MovistarDCine.png" group-title="ES Movistar",ES216:Movistar Seriesmania FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52391
+#EXTINF:-1 tvg-id="movistar.xtra.es" tvg-name="ES217:Movistar Drama HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES217MovistarXtra.png" group-title="ES Movistar",ES217:Movistar Drama HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52390
+#EXTINF:-1 tvg-id="" tvg-name="ES:-----|ES Alquiler|------------" tvg-logo="" group-title="ES Alquiler",ES:-----|ES Alquiler|------------
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/62170
+#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES091:Alquiler HD 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES091MovistarAlquiler4.png" group-title="ES Alquiler",ES091:Alquiler HD 1
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29301
+#EXTINF:-1 tvg-id="alquiler.1.es" tvg-name="ES110:Alquiler HD 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES110Alquiler1.png" group-title="ES Alquiler",ES110:Alquiler HD 2
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29282
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES112:Alquiler HD 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES112Alquiler3.png" group-title="ES Alquiler",ES112:Alquiler HD 3
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29280
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES113:Alquiler HD 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES113Alquiler4.png" group-title="ES Alquiler",ES113:Alquiler HD 4
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29279
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES114:Alquiler HD 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES114Alquiler5.png" group-title="ES Alquiler",ES114:Alquiler HD 5
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29278
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES115:Alquiler HD 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES115Alquiler6.png" group-title="ES Alquiler",ES115:Alquiler HD 6
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29277
+#EXTINF:-1 tvg-id="" tvg-name="ES116:Alquiler HD 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES116Alquiler7.png" group-title="ES Alquiler",ES116:Alquiler HD 7
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29276
+#EXTINF:-1 tvg-id="" tvg-name="ES117:Alquiler HD 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES117Alquiler9.png" group-title="ES Alquiler",ES117:Alquiler HD 8
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29275
+#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES130:Alquiler HD 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES130MovistarAlquiler1.png" group-title="ES Alquiler",ES130:Alquiler HD 9
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29262
+#EXTINF:-1 tvg-id="" tvg-name="ES:-----|ES Musica|--------------" tvg-logo="" group-title="ES Musica",ES:-----|ES Musica|--------------
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/62169
+#EXTINF:-1 tvg-id="classica.es" tvg-name="ES147:Classica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES147Classica.png" group-title="ES Musica",ES147:Classica
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29245
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="ES055:MTV ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES055MTVES.png" group-title="ES Musica",ES055:MTV ES
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2549
+#EXTINF:-1 tvg-id="mtv.espana.es" tvg-name="ES235:MTV espana" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES235MTVespana.png" group-title="ES Musica",ES235:MTV espana
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52372
+#EXTINF:-1 tvg-id="mezzo.live.es" tvg-name="ES076:MEZZO LIVE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES076MEZZOLIVEHD.png" group-title="ES Musica",ES076:MEZZO LIVE HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29316
+#EXTINF:-1 tvg-id="" tvg-name="ES:-----|ES Ninos|--------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES-----|CARTOO|--------------------.png" group-title="ES Ninos",ES:-----|ES Ninos|--------------------
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/60626
+#EXTINF:-1 tvg-id="baby.es" tvg-name="ES008:Baby TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES008BabyTV.png" group-title="ES Ninos",ES008:Baby TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2596
+#EXTINF:-1 tvg-id="boing.es" tvg-name="ES011:Boing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES011Boing.png" group-title="ES Ninos",ES011:Boing
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2593
+#EXTINF:-1 tvg-id="disney.xd.se" tvg-name="ES037:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES037DisneyXDES.png" group-title="ES Ninos",ES037:Disney XD HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2567
+#EXTINF:-1 tvg-id="disney.junior.es" tvg-name="ES036:Disney JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES036DisneyJRES.png" group-title="ES Ninos",ES036:Disney JR HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2568
+#EXTINF:-1 tvg-id="disney.es" tvg-name="ES035:Disney Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES035DisneyES.png" group-title="ES Ninos",ES035:Disney Channel HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2569
+#EXTINF:-1 tvg-id="nick.jr.es" tvg-name="ES059:NICK JR ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES059NICKJRES.png" group-title="ES Ninos",ES059:NICK JR ES
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2545
+#EXTINF:-1 tvg-id="neox.es" tvg-name="ES058:NEOX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES058NEOX.png" group-title="ES Ninos",ES058:NEOX HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2546
+#EXTINF:-1 tvg-id="neox.es" tvg-name="ES227:NEOX SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES227NeoxTv.png" group-title="ES Ninos",ES227:NEOX SD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52380
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES060:Nickelodeon HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES060NickelodeonES.png" group-title="ES Ninos",ES060:Nickelodeon HD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2544
+#EXTINF:-1 tvg-id="canal.panda.es" tvg-name="ES064:Panda" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES064Panda.png" group-title="ES Ninos",ES064:Panda
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/2540
+#EXTINF:-1 tvg-id="canal.panda.es" tvg-name="ES143:Canal Panda" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES143CANALPANDA.png" group-title="ES Ninos",ES143:Canal Panda
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/29249
+#EXTINF:-1 tvg-id="baby.es" tvg-name="ES200:13 TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Ent",ES200:13 TV
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52407
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES204:Nickelodeon FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES204Nickelodeon.png" group-title="ES Ninos",ES204:Nickelodeon FHD
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52403
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES212:BOM CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Ninos",ES212:BOM CINE
+http://kkuu12.wanicelife.com:8880/12m0290098/93914464/52395
+#EXTINF:-1 tvg-id="" tvg-name="###### VOD Spanish ######" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="Spanish",###### VOD Spanish ######
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="19.17" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="Spanish",19.17
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="68 Kill - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/6626f8bee2f3be2eb9b9e2ecd0f53e2f.jpg" group-title="Spanish",68 Kill - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Score to Settle - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/dbe9f773ceba801ae087eb803ca51541.jpg" group-title="Spanish",A Score to Settle - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ad astra - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/ad3478397d0c02275474256fbaa20fad.jpg" group-title="Spanish",Ad astra - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61818.avi
+#EXTINF:-1 tvg-id="" tvg-name="After Death - 2012" tvg-logo="http://mu03.wanicelife.com:8880/images/b367ac1a51cee548c9da119b6c8c5736.jpg" group-title="Spanish",After Death - 2012
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Audicion - 2000" tvg-logo="http://mu03.wanicelife.com:8880/images/b722dd2462abaf3b1b4a1473d0bb3664.jpg" group-title="Spanish",Audicion - 2000
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ayla, la hija de la guerra - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/c2212ae23c66493072877960d1cf5e0d.jpg" group-title="Spanish",Ayla, la hija de la guerra - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61820.avi
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXYARspjKpwN9vAOp2F9MF3NWa1.jpg" group-title="Spanish",Bad Boys for Life - 2020
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blinded by the Light - 1980" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Spanish",Blinded by the Light - 1980
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61822.avi
+#EXTINF:-1 tvg-id="" tvg-name="Broken.Temporada.1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Spanish",Broken.Temporada.1
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61823.avi
+#EXTINF:-1 tvg-id="" tvg-name="Buenos principios - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/88cd2323770692e6b333d2213d67bbd9.jpg" group-title="Spanish",Buenos principios - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casaba" tvg-logo="http://mu03.wanicelife.com:8880/images/88cd2323770692e6b333d2213d67bbd9.jpg" group-title="Spanish",Casaba
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Código 8 - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/b303d4794ba3b30631b0ec3bcda7b7b7.jpg" group-title="Spanish",Código 8 - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFzPMOJrjZfwCxllm3IIEKN7ceF.jpg" group-title="Spanish",Coffee & Kareem (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuerdas - 2013" tvg-logo="http://mu03.wanicelife.com:8880/images/1fa47b6e83e3baf6f77cfa0b793250a1.jpg" group-title="Spanish",Cuerdas - 2013
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curiosa - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/659a7163b77b0b3186d7ff5140739a2c.jpg" group-title="Spanish",Curiosa - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Día de lluvia en Nueva York - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/685a32c8e579bd8d8bc59a7cd276f120.jpg" group-title="Spanish",Día de lluvia en Nueva York - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61830.avi
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Sueño - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/995d3bcc7fb9eb97bec95b3a0e1c7ad0.jpg" group-title="Spanish",Doctor Sueño - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61831.avi
+#EXTINF:-1 tvg-id="" tvg-name="El ritmo de la venganza (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7s8CxIVvtAfNJQlTcYIWy7XpM2.jpg" group-title="Spanish",El ritmo de la venganza (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El silencio del pantano - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/acbdb8684e7afe9fedd79e836ace2d7e.jpg" group-title="Spanish",El silencio del pantano - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En guerra - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/2b6ed2744c1a08e866a80782557850ed.jpg" group-title="Spanish",En guerra - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En.Mil.Pedazos.2018" tvg-logo="http://mu03.wanicelife.com:8880/images/2b6ed2744c1a08e866a80782557850ed.jpg" group-title="Spanish",En.Mil.Pedazos.2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:¡Este cuerpo no es el mío! - 2002" tvg-logo="http://mu03.wanicelife.com:8880/images/ee6b7390b2173aa328e255668ff97c70.jpg" group-title="Spanish",ES:¡Este cuerpo no es el mío! - 2002
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61634.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:102 dálmatas - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbfGC0ar2jAMsnZ2FjRUzzvL5Kn.jpg" group-title="Spanish",ES:102 dálmatas - 2000
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61610.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:4 latas - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/25e22e61de978ea9ebb80ac2745f3a41.jpg" group-title="Spanish",ES:4 latas - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:4x4 - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/21936da762c06297d22c363ca2d552ca.jpg" group-title="Spanish",ES:4x4 - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:A Young Man With High Potential - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/2177a50b1b3060d4fc25fd0ab25037ac.jpg" group-title="Spanish",ES:A Young Man With High Potential - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61575.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Abominable - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/268cd1e344e0ccb5f43e6d16fb5c1aea.jpg" group-title="Spanish",ES:Abominable - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61576.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Ad astra - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/ad3478397d0c02275474256fbaa20fad.jpg" group-title="Spanish",ES:Ad astra - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61577.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Adios! - 1997" tvg-logo="http://mu03.wanicelife.com:8880/images/d19db8d374a6b2ff66eac1cb27ea2063.jpg" group-title="Spanish",ES:Adios! - 1997
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Al final de la escalera - 1980" tvg-logo="http://mu03.wanicelife.com:8880/images/916757114a9d2cc904e84b059ada4443.jpg" group-title="Spanish",ES:Al final de la escalera - 1980
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Alien, el octavo pasajero - 1979" tvg-logo="http://mu03.wanicelife.com:8880/images/6c304ff9c68e47b526c7f3b6d5cb1b25.jpg" group-title="Spanish",ES:Alien, el octavo pasajero - 1979
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Aliens: El regreso - 1986" tvg-logo="http://mu03.wanicelife.com:8880/images/e679c8d2cf63088ee736a12bb8b6bd83.jpg" group-title="Spanish",ES:Aliens: El regreso - 1986
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:American Wrestler: Luchando Por Un Sueño - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kslgEWZQQFJKUwvVcdnU7GYs663.jpg" group-title="Spanish",ES:American Wrestler: Luchando Por Un Sueño - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61688.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Ana Karenina - 1935" tvg-logo="http://mu03.wanicelife.com:8880/images/d8a25efe2f8157497074d31afaf323a2.jpg" group-title="Spanish",ES:Ana Karenina - 1935
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61584.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Angel Mine - 1978" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Spanish",ES:Angel Mine - 1978
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Annabelle: Creation - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/63e50e0ef5bc68f38f842aef7d122459.jpg" group-title="Spanish",ES:Annabelle: Creation - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Arde Mississippi - 1988" tvg-logo="http://mu03.wanicelife.com:8880/images/c921845efc6025cdc57eb8a3bd46a715.jpg" group-title="Spanish",ES:Arde Mississippi - 1988
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Atlantique - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/c2bfe87ac0bcbd7fa1ce7df8af81d87a.jpg" group-title="Spanish",ES:Atlantique - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61588.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:atmosphere - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6b4DtcF7OEZOHVmkrCyVWxkZViN.jpg" group-title="Spanish",ES:atmosphere - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Aves.De.Presa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6b4DtcF7OEZOHVmkrCyVWxkZViN.jpg" group-title="Spanish",ES:Aves.De.Presa
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Ayla, la hija de la guerra - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/c2212ae23c66493072877960d1cf5e0d.jpg" group-title="Spanish",ES:Ayla, la hija de la guerra - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61590.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Bad.Boys.For.Life.Screener" tvg-logo="http://mu03.wanicelife.com:8880/images/c2212ae23c66493072877960d1cf5e0d.jpg" group-title="Spanish",ES:Bad.Boys.For.Life.Screener
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Banidital.Ronal" tvg-logo="http://mu03.wanicelife.com:8880/images/c2212ae23c66493072877960d1cf5e0d.jpg" group-title="Spanish",ES:Banidital.Ronal
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Batman - 1989" tvg-logo="http://mu03.wanicelife.com:8880/images/fcb9315980d471c0afd5133fc5e3151c.jpg" group-title="Spanish",ES:Batman - 1989
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Be.Pateint" tvg-logo="http://mu03.wanicelife.com:8880/images/fcb9315980d471c0afd5133fc5e3151c.jpg" group-title="Spanish",ES:Be.Pateint
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Beast - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/44e448c993fac502728f1b27a59b5833.jpg" group-title="Spanish",ES:Beast - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Beautiful boy, siempre serás mi hijo - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/e79f345801f5c9e9893a0a69dd10888f.jpg" group-title="Spanish",ES:Beautiful boy, siempre serás mi hijo - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Beyond Skyline - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/dbbef6878339c0a33a1b86269334d5c9.jpg" group-title="Spanish",ES:Beyond Skyline - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Blinded by the Light - 1980" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Spanish",ES:Blinded by the Light - 1980
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61598.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:BloodRayne - 2005" tvg-logo="http://mu03.wanicelife.com:8880/images/fc51394af51dd61fa617c8301e042fac.jpg" group-title="Spanish",ES:BloodRayne - 2005
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61599.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Bloodshot - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0Sokh7DazDAxGOpt0ln9soTTET.jpg" group-title="Spanish",ES:Bloodshot - 2020
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Bosque maldito - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/f31cbe879096d9be2f64581676a8aa02.jpg" group-title="Spanish",ES:Bosque maldito - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Buen.1" tvg-logo="http://mu03.wanicelife.com:8880/images/f31cbe879096d9be2f64581676a8aa02.jpg" group-title="Spanish",ES:Buen.1
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Cadaver - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Spanish",ES:Cadaver - 2012
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Cbio.De.Aires" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Spanish",ES:Cbio.De.Aires
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61604.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Clever.Carna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Spanish",ES:Clever.Carna
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Coldwater - 2013" tvg-logo="http://mu03.wanicelife.com:8880/images/3b60cd6ba3cb9036011e9f89f84ced41.jpg" group-title="Spanish",ES:Coldwater - 2013
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61606.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Cómo conquistar Hollywood - 1995" tvg-logo="http://mu03.wanicelife.com:8880/images/5da76d832c1f7a1e90d85b047e729fc3.jpg" group-title="Spanish",ES:Cómo conquistar Hollywood - 1995
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61607.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Crisis - 1950" tvg-logo="http://mu03.wanicelife.com:8880/images/99194292b4c8c1251d47b1708c7eae8e.jpg" group-title="Spanish",ES:Crisis - 1950
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Criven" tvg-logo="http://mu03.wanicelife.com:8880/images/99194292b4c8c1251d47b1708c7eae8e.jpg" group-title="Spanish",ES:Criven
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Day of the Mummy - 2014" tvg-logo="http://mu03.wanicelife.com:8880/images/bbcd5779e3e4fd50238c4aa032862615.jpg" group-title="Spanish",ES:Day of the Mummy - 2014
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Demonios tus ojos - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/814db78dbb893cc4048805926f6cb2c9.jpg" group-title="Spanish",ES:Demonios tus ojos - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Dentro del laberinto - 1986" tvg-logo="http://mu03.wanicelife.com:8880/images/04b3c24b63ed7322d71d888e601cf1ba.jpg" group-title="Spanish",ES:Dentro del laberinto - 1986
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61613.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Después de nosotros - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/b28b93237fa6db4aabab5c2f9705f189.jpg" group-title="Spanish",ES:Después de nosotros - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61614.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Día de lluvia en Nueva York - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/685a32c8e579bd8d8bc59a7cd276f120.jpg" group-title="Spanish",ES:Día de lluvia en Nueva York - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61615.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Doble sacrificio - 1932" tvg-logo="http://mu03.wanicelife.com:8880/images/178e7f50776ac593919a86cd1648bd16.jpg" group-title="Spanish",ES:Doble sacrificio - 1932
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61616.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Doctor Sueño - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/995d3bcc7fb9eb97bec95b3a0e1c7ad0.jpg" group-title="Spanish",ES:Doctor Sueño - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61617.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Dos amantes y un oso - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/2a3ecadbefb2fc220f4a3efe5a44ecd8.jpg" group-title="Spanish",ES:Dos amantes y un oso - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Dos padres en apuros - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/9f3a14d53415f09892c236fc96af1776.jpg" group-title="Spanish",ES:Dos padres en apuros - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61619.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Dude - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPLirq1p9rALSuECwEL6N0zxrl8.jpg" group-title="Spanish",ES:Dude - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:El abuelo espía - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/60953ec87eb9637daf5a71e14e4e8353.jpg" group-title="Spanish",ES:El abuelo espía - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:El amanecer del planeta de los simios - 2014" tvg-logo="http://mu03.wanicelife.com:8880/images/3a144612eb82b006445bed4517e418fb.jpg" group-title="Spanish",ES:El amanecer del planeta de los simios - 2014
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:El Caso Willingham - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/212af211abd03a7cdb1a7c54cd16da19.jpg" group-title="Spanish",ES:El Caso Willingham - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61623.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:El faro - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/a125c80a9a23e588c3382696217e8841.jpg" group-title="Spanish",ES:El faro - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:El graduado - 1967" tvg-logo="http://mu03.wanicelife.com:8880/images/68a22e49e706584d489b5a5d144490b2.jpg" group-title="Spanish",ES:El graduado - 1967
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61625.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:El gran golpe - 2004" tvg-logo="http://mu03.wanicelife.com:8880/images/3d9092be94ff2fb36f0d193208475e58.jpg" group-title="Spanish",ES:El gran golpe - 2004
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:El origen del planeta de los simios - 2011" tvg-logo="http://mu03.wanicelife.com:8880/images/2d90fcd1ebbec29193811a5aeac0784d.jpg" group-title="Spanish",ES:El origen del planeta de los simios - 2011
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:El permiso - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/da35ea930c59fc57bc89dbb0a2cba46f.jpg" group-title="Spanish",ES:El permiso - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61627.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:El progreso del peregrino - 2008" tvg-logo="http://mu03.wanicelife.com:8880/images/5bc7b64363ed468181096d155d10c7b9.jpg" group-title="Spanish",ES:El progreso del peregrino - 2008
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:El secreto de los fantasmas - 1987" tvg-logo="http://mu03.wanicelife.com:8880/images/67f05dc37670b68583121d9ad3021a77.jpg" group-title="Spanish",ES:El secreto de los fantasmas - 1987
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61629.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:El terror llama a su puerta - 1986" tvg-logo="http://mu03.wanicelife.com:8880/images/88c72f742d63ff6da9b629152a743c60.jpg" group-title="Spanish",ES:El terror llama a su puerta - 1986
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61630.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:El.ericano.The.Movie" tvg-logo="http://mu03.wanicelife.com:8880/images/88c72f742d63ff6da9b629152a743c60.jpg" group-title="Spanish",ES:El.ericano.The.Movie
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:En mil pedazos - 1980" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Spanish",ES:En mil pedazos - 1980
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Enter.Map" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Spanish",ES:Enter.Map
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Extra ordinario - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/b1ff1f38dba9d3f47daedbd934f325ed.jpg" group-title="Spanish",ES:Extra ordinario - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61635.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Falcon Rising - 2014" tvg-logo="http://mu03.wanicelife.com:8880/images/95c72ba029a3bd2eaa8f79d949d5fbfd.jpg" group-title="Spanish",ES:Falcon Rising - 2014
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Former.Man" tvg-logo="http://mu03.wanicelife.com:8880/images/95c72ba029a3bd2eaa8f79d949d5fbfd.jpg" group-title="Spanish",ES:Former.Man
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Frozen II - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/d344e6969784cd2d84c923624c528164.jpg" group-title="Spanish",ES:Frozen II - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Futbolín 2 - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/d344e6969784cd2d84c923624c528164.jpg" group-title="Spanish",ES:Futbolín 2 - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Girl on the Third Floor - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/a0cd802b5491c6b83fb8afe5ad4f2a0d.jpg" group-title="Spanish",ES:Girl on the Third Floor - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61640.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Good.For.Good" tvg-logo="http://mu03.wanicelife.com:8880/images/a0cd802b5491c6b83fb8afe5ad4f2a0d.jpg" group-title="Spanish",ES:Good.For.Good
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Gwendoline - 1984" tvg-logo="http://mu03.wanicelife.com:8880/images/fb433901c523dbd8998d87f9c4adf496.jpg" group-title="Spanish",ES:Gwendoline - 1984
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61642.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:HANDsome - 1981" tvg-logo="http://mu03.wanicelife.com:8880/images/f1f880d2a67cd3fa06205c464bd0ce04.jpg" group-title="Spanish",ES:HANDsome - 1981
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Hannah - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/550a0d2a84bc02cfcd372a95de5f954c.jpg" group-title="Spanish",ES:Hannah - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Hatred.For.Life" tvg-logo="http://mu03.wanicelife.com:8880/images/550a0d2a84bc02cfcd372a95de5f954c.jpg" group-title="Spanish",ES:Hatred.For.Life
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Herbie, torero - 1980" tvg-logo="http://mu03.wanicelife.com:8880/images/c06fa6ffed6bf21bb7398f19979f45d7.jpg" group-title="Spanish",ES:Herbie, torero - 1980
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Historia de un matrimonio - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/a5eaf88635bd9755a06d123d7390d10e.jpg" group-title="Spanish",ES:Historia de un matrimonio - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61650.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Hotel.Transviya" tvg-logo="http://mu03.wanicelife.com:8880/images/a5eaf88635bd9755a06d123d7390d10e.jpg" group-title="Spanish",ES:Hotel.Transviya
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Instinto maternal - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/a269a8e7aa2a34e7f6976692a5c416a3.jpg" group-title="Spanish",ES:Instinto maternal - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61653.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Invacution" tvg-logo="http://mu03.wanicelife.com:8880/images/a269a8e7aa2a34e7f6976692a5c416a3.jpg" group-title="Spanish",ES:Invacution
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Invisible Sue - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/09f6d85f015c29da6f483d9fe3e571b5.jpg" group-title="Spanish",ES:Invisible Sue - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61655.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:It - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/84940e228106325c24c12ec1d22cbd35.jpg" group-title="Spanish",ES:It - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61657.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:It: Capítulo 2 - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/42797f8d5321a50ff41795fdceb2991e.jpg" group-title="Spanish",ES:It: Capítulo 2 - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61656.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Jeff.Faransico" tvg-logo="http://mu03.wanicelife.com:8880/images/42797f8d5321a50ff41795fdceb2991e.jpg" group-title="Spanish",ES:Jeff.Faransico
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Jeffe" tvg-logo="http://mu03.wanicelife.com:8880/images/42797f8d5321a50ff41795fdceb2991e.jpg" group-title="Spanish",ES:Jeffe
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Justin y la espada del valor - 2013" tvg-logo="http://mu03.wanicelife.com:8880/images/4a56359aab0c205843d9a06bbac3e700.jpg" group-title="Spanish",ES:Justin y la espada del valor - 2013
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:La fuerza de la venganza - 1986" tvg-logo="http://mu03.wanicelife.com:8880/images/81e74467941ad3b9fe41a5a0c28ec223.jpg" group-title="Spanish",ES:La fuerza de la venganza - 1986
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61662.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:La guerra del planeta de los simios - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/44afc2e36a7291fea274ab5375ff0494.jpg" group-title="Spanish",ES:La guerra del planeta de los simios - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:La hija de un ladrón - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/fba478f929692a53a69e6ab6006d294a.jpg" group-title="Spanish",ES:La hija de un ladrón - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:La hija del jefe - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/36304d620667d7381f4445acc517dc3d.jpg" group-title="Spanish",ES:La hija del jefe - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61665.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:La luz de mi vida - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/baab46faea1d4b6c4f6c42413af1f347.jpg" group-title="Spanish",ES:La luz de mi vida - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61666.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:La luz entre los océanos - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/7c9dc8a979e3881dc4adf032f4864b3e.jpg" group-title="Spanish",ES:La luz entre los océanos - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61667.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:La mejor defensa es un ataque - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/ded33b23b15e82299863a04ac5488ee4.jpg" group-title="Spanish",ES:La mejor defensa es un ataque - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61668.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:La noche de la bruja - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/45abc16fcacea072de871e09feaf93cc.jpg" group-title="Spanish",ES:La noche de la bruja - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:La Princesa Cisne: Aventura pirata - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/0bc2f770d0536c29dab6afedd74d342e.jpg" group-title="Spanish",ES:La Princesa Cisne: Aventura pirata - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61670.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:La rebelión de los cuentos - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/49675be3cf6f046efc532c235f32a395.jpg" group-title="Spanish",ES:La rebelión de los cuentos - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:La sombra del testigo - 1987" tvg-logo="http://mu03.wanicelife.com:8880/images/7834295686fd00eb7f16cb87c33460ee.jpg" group-title="Spanish",ES:La sombra del testigo - 1987
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61672.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:La tumba del diablo - 2009" tvg-logo="http://mu03.wanicelife.com:8880/images/d4a5f9ee5cb51287a79022f74a156570.jpg" group-title="Spanish",ES:La tumba del diablo - 2009
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61674.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:La vida de Calabacín - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/d200efc99073003e8d3abecdc1ffbf8a.jpg" group-title="Spanish",ES:La vida de Calabacín - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61675.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Land of Smiles - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/79eb5cbb23c5a04902523ca2001ef3ea.jpg" group-title="Spanish",ES:Land of Smiles - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61676.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Las apariencias engañan - 1983" tvg-logo="http://mu03.wanicelife.com:8880/images/faac23eea68a6ed2ce1caf5b8072f931.jpg" group-title="Spanish",ES:Las apariencias engañan - 1983
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61677.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Las aventuras de Errol Flynn - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/72d4c06eb605c0fa9468a2e1799e6c6d.jpg" group-title="Spanish",ES:Las aventuras de Errol Flynn - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61678.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Las Furias - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbJemH9B6QdOoCfzpRrwbOeeoz1.jpg" group-title="Spanish",ES:Las Furias - 2020
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Las inocentes - 1986" tvg-logo="http://mu03.wanicelife.com:8880/images/b5967d7d961bcc9231d9032b34ed9b75.jpg" group-title="Spanish",ES:Las inocentes - 1986
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61680.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Las vidas posibles de Mr. Nobody - 2009" tvg-logo="http://mu03.wanicelife.com:8880/images/62467647bb16961544e43d7153c9ac3d.jpg" group-title="Spanish",ES:Las vidas posibles de Mr. Nobody - 2009
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Los amantes pasajeros - 2013" tvg-logo="http://mu03.wanicelife.com:8880/images/df9afe9b548632241ff0a85a9ea994d8.jpg" group-title="Spanish",ES:Los amantes pasajeros - 2013
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Los Bando - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/1b9af051e327026050ebff0bad35e01c.jpg" group-title="Spanish",ES:Los Bando - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61684.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Los días que vendrán - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/4fee3f704f1534764cad870bc7461544.jpg" group-title="Spanish",ES:Los días que vendrán - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61685.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Los elegidos - 2013" tvg-logo="http://mu03.wanicelife.com:8880/images/b04a96fabd03bad2e8495518a9950c8e.jpg" group-title="Spanish",ES:Los elegidos - 2013
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Los hermanos guardianes - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/3edf5f43514f2ca7318b66fca1c7969e.jpg" group-title="Spanish",ES:Los hermanos guardianes - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Los.Angeles.Stories" tvg-logo="http://mu03.wanicelife.com:8880/images/3edf5f43514f2ca7318b66fca1c7969e.jpg" group-title="Spanish",ES:Los.Angeles.Stories
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:M1.To.Kill" tvg-logo="http://mu03.wanicelife.com:8880/images/3edf5f43514f2ca7318b66fca1c7969e.jpg" group-title="Spanish",ES:M1.To.Kill
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Martin Luther King Jr: One Man and His Dream - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/3edf5f43514f2ca7318b66fca1c7969e.jpg" group-title="Spanish",ES:Martin Luther King Jr: One Man and His Dream - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Metness.Peohogical" tvg-logo="http://mu03.wanicelife.com:8880/images/3edf5f43514f2ca7318b66fca1c7969e.jpg" group-title="Spanish",ES:Metness.Peohogical
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Midsommar - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/8d5882ba85faa599a007df242f95e776.jpg" group-title="Spanish",ES:Midsommar - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61691.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Midway - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/ef71f87c68bb162ef1083e7407f5d26e.jpg" group-title="Spanish",ES:Midway - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Mission.Puzzles" tvg-logo="http://mu03.wanicelife.com:8880/images/ef71f87c68bb162ef1083e7407f5d26e.jpg" group-title="Spanish",ES:Mission.Puzzles
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Mongoland - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Spanish",ES:Mongoland - 2001
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61694.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Multiple Man - 1969" tvg-logo="http://mu03.wanicelife.com:8880/images/c3e01aa2857d96918f800566e2d4c8ca.jpg" group-title="Spanish",ES:Multiple Man - 1969
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Muñeco diabólico - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/053ff2a089ccc8e21763885fb2658493.jpg" group-title="Spanish",ES:Muñeco diabólico - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61696.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Navidad sangrienta - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/398661cfd8a63b881cdb8724185228ac.jpg" group-title="Spanish",ES:Navidad sangrienta - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Night.For.USD" tvg-logo="http://mu03.wanicelife.com:8880/images/398661cfd8a63b881cdb8724185228ac.jpg" group-title="Spanish",ES:Night.For.USD
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Noche.Brige" tvg-logo="http://mu03.wanicelife.com:8880/images/398661cfd8a63b881cdb8724185228ac.jpg" group-title="Spanish",ES:Noche.Brige
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Orm en el reino de las nieves - 2014" tvg-logo="http://mu03.wanicelife.com:8880/images/b4294c7e7afc75e4f68234b988a67460.jpg" group-title="Spanish",ES:Orm en el reino de las nieves - 2014
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:P-51 Dragon Fighter - 2014" tvg-logo="http://mu03.wanicelife.com:8880/images/ec27b75e11b4532eefe76c381e733407.jpg" group-title="Spanish",ES:P-51 Dragon Fighter - 2014
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:París: infierno helado - 2013" tvg-logo="http://mu03.wanicelife.com:8880/images/8817ca2d70da15e97731b4e3cf80958d.jpg" group-title="Spanish",ES:París: infierno helado - 2013
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Pasados por agua - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/c0c602d2ed43fc21108466798af719c0.jpg" group-title="Spanish",ES:Pasados por agua - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61706.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Pelé, el nacimiento de una leyenda - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/9c989581c168bc214e2b8b7672630b49.jpg" group-title="Spanish",ES:Pelé, el nacimiento de una leyenda - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Proyecto Lázaro - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/04a543adf8c36e4789c0ccd710639c24.jpg" group-title="Spanish",ES:Proyecto Lázaro - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Rascals - 1938" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Spanish",ES:Rascals - 1938
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Rescate suicida - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/5bff16f29139cee0dce79c0b450eee99.jpg" group-title="Spanish",ES:Rescate suicida - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Resident Evil: El capítulo final - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/ecc64e749cedecdedaa6fe4589f00920.jpg" group-title="Spanish",ES:Resident Evil: El capítulo final - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Salvando a Zoë - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yt5SMAHeg0yNWUvuyGf0GORFyM.jpg" group-title="Spanish",ES:Salvando a Zoë - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Satanic - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/12105a5e0bdef809f6c2ef3180b9bffe.jpg" group-title="Spanish",ES:Satanic - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61715.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Scooby Doo: La maldición del monstruo del lago - 2010" tvg-logo="http://mu03.wanicelife.com:8880/images/97c46479ef854b41e292d0cb61a39a5f.jpg" group-title="Spanish",ES:Scooby Doo: La maldición del monstruo del lago - 2010
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61719.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Scooby-Doo 2: Desatado - 2004" tvg-logo="http://mu03.wanicelife.com:8880/images/2ecc2fb72a052dc412e2dc16fdc4380d.jpg" group-title="Spanish",ES:Scooby-Doo 2: Desatado - 2004
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61717.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Scooby-Doo: Comienza el misterio - 2009" tvg-logo="http://mu03.wanicelife.com:8880/images/9005e45afd5ba708947634510d4ee199.jpg" group-title="Spanish",ES:Scooby-Doo: Comienza el misterio - 2009
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61718.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Senseable" tvg-logo="http://mu03.wanicelife.com:8880/images/9005e45afd5ba708947634510d4ee199.jpg" group-title="Spanish",ES:Senseable
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Serenity - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/4e609958fff43425de006643d515dc0f.jpg" group-title="Spanish",ES:Serenity - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61721.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Soldado de la noche - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/le697Qb2PYf0u1iKsuhoxiGTHuB.jpg" group-title="Spanish",ES:Soldado de la noche - 2015
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Sparrows Dance - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ3KjvTNDt5jW022oX7GC0NLbSP.jpg" group-title="Spanish",ES:Sparrows Dance - 2013
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Stake Land - 2010" tvg-logo="http://mu03.wanicelife.com:8880/images/e72c0a00422b55cbb8afd5a1b9541728.jpg" group-title="Spanish",ES:Stake Land - 2010
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Suicide.Squad.Hell.to" tvg-logo="http://mu03.wanicelife.com:8880/images/e72c0a00422b55cbb8afd5a1b9541728.jpg" group-title="Spanish",ES:Suicide.Squad.Hell.to
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Super.Chat" tvg-logo="http://mu03.wanicelife.com:8880/images/e72c0a00422b55cbb8afd5a1b9541728.jpg" group-title="Spanish",ES:Super.Chat
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Super.Mortal" tvg-logo="http://mu03.wanicelife.com:8880/images/e72c0a00422b55cbb8afd5a1b9541728.jpg" group-title="Spanish",ES:Super.Mortal
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Sweet Virginia - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/d71f6af2b576e1d1464e36514f401937.jpg" group-title="Spanish",ES:Sweet Virginia - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Te presento a Sofia - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/27ac90ab0b96d58113527a53d15887ba.jpg" group-title="Spanish",ES:Te presento a Sofia - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61728.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:The Aeronauts - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/f25229c23812462c6bf97c9e742ac66e.jpg" group-title="Spanish",ES:The Aeronauts - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61729.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:The Equalizer 2 (El protector 2) - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqRqKWSOxMu6nV16TtqKvsYFQ98.jpg" group-title="Spanish",ES:The Equalizer 2 (El protector 2) - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:The Hollow Point - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/57e77a2dc72b8568250f9fe560ab2607.jpg" group-title="Spanish",ES:The Hollow Point - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:The Report - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/57d9305c460596939ce16c497319785f.jpg" group-title="Spanish",ES:The Report - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61734.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:The Take Down - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/19d9ab31858f8db68194c38e9a0a6baf.jpg" group-title="Spanish",ES:The Take Down - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61735.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:The.Cada" tvg-logo="http://mu03.wanicelife.com:8880/images/19d9ab31858f8db68194c38e9a0a6baf.jpg" group-title="Spanish",ES:The.Cada
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:To.Combodia" tvg-logo="http://mu03.wanicelife.com:8880/images/19d9ab31858f8db68194c38e9a0a6baf.jpg" group-title="Spanish",ES:To.Combodia
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Tucker & Dale contra el mal - 2010" tvg-logo="http://mu03.wanicelife.com:8880/images/69cf20820b6feedb9d2608abb068c04d.jpg" group-title="Spanish",ES:Tucker & Dale contra el mal - 2010
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61737.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Turbo - 2013" tvg-logo="http://mu03.wanicelife.com:8880/images/858e145caf06d9ccd9c57d5440be4400.jpg" group-title="Spanish",ES:Turbo - 2013
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Un príncipe de Navidad - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/338fd7482477492bafa48392a90bda41.jpg" group-title="Spanish",ES:Un príncipe de Navidad - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Un verano en Ibiza - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/d53a557187a1ad59adf7b16abdaaa4d0.jpg" group-title="Spanish",ES:Un verano en Ibiza - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61740.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Up - 2009" tvg-logo="http://mu03.wanicelife.com:8880/images/4558424659e7b6f29d117ca3152e9473.jpg" group-title="Spanish",ES:Up - 2009
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Vikingos - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/3393b46988c7c341d6c973296f9a7cdd.jpg" group-title="Spanish",ES:Vikingos - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61742.avi
+#EXTINF:-1 tvg-id="" tvg-name="ES:Vivid.Clanderio" tvg-logo="http://mu03.wanicelife.com:8880/images/3393b46988c7c341d6c973296f9a7cdd.jpg" group-title="Spanish",ES:Vivid.Clanderio
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Wolf.Cop" tvg-logo="http://mu03.wanicelife.com:8880/images/3393b46988c7c341d6c973296f9a7cdd.jpg" group-title="Spanish",ES:Wolf.Cop
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Wonder Wheel - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/169b4f5f4ec98ed1ced08a662b14295f.jpg" group-title="Spanish",ES:Wonder Wheel - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES:Zohan: Licencia para peinar - 2008" tvg-logo="http://mu03.wanicelife.com:8880/images/5e2ea2b0f3aba450c972a509bac8d14e.jpg" group-title="Spanish",ES:Zohan: Licencia para peinar - 2008
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61746.avi
+#EXTINF:-1 tvg-id="" tvg-name="Especiales - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/656dfa6f70933237e67653aa86d854e6.jpg" group-title="Spanish",Especiales - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Este.Niño.Neces.Aire.esco" tvg-logo="http://mu03.wanicelife.com:8880/images/656dfa6f70933237e67653aa86d854e6.jpg" group-title="Spanish",Este.Niño.Neces.Aire.esco
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fiebre del ladrillo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW06KTvAqAZXaVQOQGApjDdhkSW.jpg" group-title="Spanish",Fiebre del ladrillo (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Girl on the Third Floor - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/a0cd802b5491c6b83fb8afe5ad4f2a0d.jpg" group-title="Spanish",Girl on the Third Floor - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61839.avi
+#EXTINF:-1 tvg-id="" tvg-name="Hasta que la boda nos separe (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkz7ZoqJMFziqF8yQzkmfMRUEG.jpg" group-title="Spanish",Hasta que la boda nos separe (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hello.My.Ne.Is.Doris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkz7ZoqJMFziqF8yQzkmfMRUEG.jpg" group-title="Spanish",Hello.My.Ne.Is.Doris
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Historia de un matrimonio - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/a5eaf88635bd9755a06d123d7390d10e.jpg" group-title="Spanish",Historia de un matrimonio - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61842.avi
+#EXTINF:-1 tvg-id="" tvg-name="Insidious - 2010" tvg-logo="http://mu03.wanicelife.com:8880/images/1273afa9c32b764e36d526cb80818d02.jpg" group-title="Spanish",Insidious - 2010
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La alegría de las pequeñas cosas - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/77efe5161bc42ecb08755b5cb2269f45.jpg" group-title="Spanish",La alegría de las pequeñas cosas - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La candidata perfecta (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXZqG06J0p2WCmyx22rOwIV7070.jpg" group-title="Spanish",La candidata perfecta (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La fábrica de sueños - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/704ef1b4e65e9b183fc9a6cbf866271b.jpg" group-title="Spanish",La fábrica de sueños - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La mejor defensa es un ataque - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/ded33b23b15e82299863a04ac5488ee4.jpg" group-title="Spanish",La mejor defensa es un ataque - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61848.avi
+#EXTINF:-1 tvg-id="" tvg-name="La tierra y la sangre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUEjmFnn9lVpQYC3d88QPQHrDr4.jpg" group-title="Spanish",La tierra y la sangre (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las apariencias engañan - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/9d0a6327800b0314b8c227902d694ed3.jpg" group-title="Spanish",Las apariencias engañan - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61850.avi
+#EXTINF:-1 tvg-id="" tvg-name="Las aventuras de Errol Flynn - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/72d4c06eb605c0fa9468a2e1799e6c6d.jpg" group-title="Spanish",Las aventuras de Errol Flynn - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61851.avi
+#EXTINF:-1 tvg-id="" tvg-name="Las aventuras del Doctor Dolittle - 2020" tvg-logo="http://mvu03.wanicelife.com:8880/images/ca8c241f507bdff7b613b97a729a0ed0.jpg" group-title="Spanish",Las aventuras del Doctor Dolittle - 2020
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las plagas de Breslavia - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/a2e1e98c02cc05b5a5c86e9f444f4320.jpg" group-title="Spanish",Las plagas de Breslavia - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Like.A.Boss" tvg-logo="http://mu03.wanicelife.com:8880/images/a2e1e98c02cc05b5a5c86e9f444f4320.jpg" group-title="Spanish",Like.A.Boss
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Bando - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/1b9af051e327026050ebff0bad35e01c.jpg" group-title="Spanish",Los Bando - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61855.avi
+#EXTINF:-1 tvg-id="" tvg-name="Los hermanos Willoughby (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1W9uSS3W7oil0Lo9QUJesey0i5.jpg" group-title="Spanish",Los hermanos Willoughby (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los niños del mar - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/99712a46844ebac9a4ffa7dbb072fe04.jpg" group-title="Spanish",Los niños del mar - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Me Not - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/7c9fac52462a97726681a41c85f256b8.jpg" group-title="Spanish",Love Me Not - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love.Weing.Repeat" tvg-logo="http://mu03.wanicelife.com:8880/images/7c9fac52462a97726681a41c85f256b8.jpg" group-title="Spanish",Love.Weing.Repeat
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luchand.Por.Un.Sueño" tvg-logo="http://mu03.wanicelife.com:8880/images/7c9fac52462a97726681a41c85f256b8.jpg" group-title="Spanish",Luchand.Por.Un.Sueño
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61860.avi
+#EXTINF:-1 tvg-id="" tvg-name="Madre - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/dbe37f5ab3c230873b92b3f3dd9cceef.jpg" group-title="Spanish",Madre - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maze.Runner" tvg-logo="http://mu03.wanicelife.com:8880/images/dbe37f5ab3c230873b92b3f3dd9cceef.jpg" group-title="Spanish",Maze.Runner
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Midsommar - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/8d5882ba85faa599a007df242f95e776.jpg" group-title="Spanish",Midsommar - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61863.avi
+#EXTINF:-1 tvg-id="" tvg-name="Molly's Game - 2017" tvg-logo="http://mu03.wanicelife.com:8880/images/8caa2765881754de54ad0f79cf55d1bb.jpg" group-title="Spanish",Molly's Game - 2017
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mujercitas - 1973" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Spanish",Mujercitas - 1973
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muñeco diabólico - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/053ff2a089ccc8e21763885fb2658493.jpg" group-title="Spanish",Muñeco diabólico - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61866.avi
+#EXTINF:-1 tvg-id="" tvg-name="Nobember.Rule" tvg-logo="http://mu03.wanicelife.com:8880/images/053ff2a089ccc8e21763885fb2658493.jpg" group-title="Spanish",Nobember.Rule
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Onward (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jiwsh6i9DeguL4iRgQkpkP7m11.jpg" group-title="Spanish",Onward (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ordinary World - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/a210faac58acd696839e47c0d947721c.jpg" group-title="Spanish",Ordinary World - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Palm Beach - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/43c3a0fad9590172c604a5a19fc37471.jpg" group-title="Spanish",Palm Beach - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon.19.Volcanion.Y.La.Marlla.Mecanica" tvg-logo="http://mu03.wanicelife.com:8880/images/43c3a0fad9590172c604a5a19fc37471.jpg" group-title="Spanish",Pokemon.19.Volcanion.Y.La.Marlla.Mecanica
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Proxima - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/b4d888f6cdd2531e07fb39bf27cba7f4.jpg" group-title="Spanish",Proxima - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scooby.Doo.Retorno.A.La.Isla.Zombie" tvg-logo="http://mu03.wanicelife.com:8880/images/b4d888f6cdd2531e07fb39bf27cba7f4.jpg" group-title="Spanish",Scooby.Doo.Retorno.A.La.Isla.Zombie
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman: Hijo Rojo - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Spanish",Superman: Hijo Rojo - 2009
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Take Point - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/9e857a8936160fcd90497fb02d305e68.jpg" group-title="Spanish",Take Point - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tango One - 2018" tvg-logo="http://mu03.wanicelife.com:8880/images/c65f7d5d25c4f52a4e8424edc9b9fc57.jpg" group-title="Spanish",Tango One - 2018
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Aeronauts - 1984" tvg-logo="http://mu03.wanicelife.com:8880/images/b3281ceff41840a39ec6fb59382b43cb.jpg" group-title="Spanish",The Aeronauts - 1984
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61878.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Huntress: Rune of the Dead - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/60f4deee42fb02694b6271a8c2af2227.jpg" group-title="Spanish",The Huntress: Rune of the Dead - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Main Event - 1979" tvg-logo="http://mu03.wanicelife.com:8880/images/7ce49e61d721b6de38148f3cf717f168.jpg" group-title="Spanish",The Main Event - 1979
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mustang - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/883780e4b3ddc51976ad65ae677148e0.jpg" group-title="Spanish",The Mustang - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Report - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/57d9305c460596939ce16c497319785f.jpg" group-title="Spanish",The Report - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61882.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Tooth Fairy - 2006" tvg-logo="http://mu03.wanicelife.com:8880/images/f46854a65ee2d265b55578822b730322.jpg" group-title="Spanish",The Tooth Fairy - 2006
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Triple 9 - 2016" tvg-logo="http://mu03.wanicelife.com:8880/images/ee9ec63dada444821932fdd30e9f6c58.jpg" group-title="Spanish",Triple 9 - 2016
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tyler.Rake.Extraction" tvg-logo="http://mu03.wanicelife.com:8880/images/ee9ec63dada444821932fdd30e9f6c58.jpg" group-title="Spanish",Tyler.Rake.Extraction
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un verano en Ibiza - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/d53a557187a1ad59adf7b16abdaaa4d0.jpg" group-title="Spanish",Un verano en Ibiza - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61886.avi
+#EXTINF:-1 tvg-id="" tvg-name="Viking Blood - 2019" tvg-logo="http://mu03.wanicelife.com:8880/images/543c626886a6daf5ffc6dce752ec299c.jpg" group-title="Spanish",Viking Blood - 2019
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/61887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adú (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tigbVfTJ4mJccucmov2UThgOQbJ.jpg" group-title="Spanish",Adú (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cross.the.Line.2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tigbVfTJ4mJccucmov2UThgOQbJ.jpg" group-title="Spanish",Cross.the.Line.2020
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El baile de los 41 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opu7yJYhAGKalZHC6k344TlH3vp.jpg" group-title="Spanish",El baile de los 41 (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lavaperros (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtX6TPhoNACLQOTOZmTxc5r4R67.jpg" group-title="Spanish",Lavaperros (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El día que me perdí (2020)" tvg-logo="http://mvu03.wanicelife.com:8880/images/304b0974a0bf2602512093f86350c47a.jpg" group-title="Spanish",El día que me perdí (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El inconveniente (2020)" tvg-logo="http://mvu03.wanicelife.com:8880/images/f412d763537cc356a22269a187a4541b.jpg" group-title="Spanish",El inconveniente (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Embryo.2020" tvg-logo="http://mvu03.wanicelife.com:8880/images/f412d763537cc356a22269a187a4541b.jpg" group-title="Spanish",Embryo.2020
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Señas Particulares (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvLeymeM5B0w7MtFdZoqbl67d2A.jpg" group-title="Spanish",Sin Señas Particulares (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La mujer ilegal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suBQtLTE0sllOHqeSJrRnF2Aw2R.jpg" group-title="Spanish",La mujer ilegal (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malasaña 32 (2020)" tvg-logo="http://mvu03.wanicelife.com:8880/images/7fea55258dc9836669a082450c8182b6.jpg" group-title="Spanish",Malasaña 32 (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Danyka (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ah14RS4ftgyTobHfKzYmehxImX.jpg" group-title="Spanish",Danyka (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel: El fenómeno (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AboUXTrDWEi0PuZUqaft0iwBTm7.jpg" group-title="Spanish",La casa de papel: El fenómeno (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tengo miedo torero (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rr79BAaLLt6ElEGQx3IHkEhKiYR.jpg" group-title="Spanish",Tengo miedo torero (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New.Order.2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rr79BAaLLt6ElEGQx3IHkEhKiYR.jpg" group-title="Spanish",New.Order.2020
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cuaderno de Tomy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNID1IWgWqEX1WF1X2N2wKb1le.jpg" group-title="Spanish",El cuaderno de Tomy (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Érase una vez en Venezuela (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqYRkF6T31BWJjFapIda8jHizGy.jpg" group-title="Spanish",Érase una vez en Venezuela (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camino a Roma (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0hO0MzC7F6cyqysL4neoAguf0u.jpg" group-title="Spanish",Camino a Roma (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin hijos (2020)" tvg-logo="http://mvu03.wanicelife.com:8880/images/3838dfe4aca84de59240c04227bfd053.jpg" group-title="Spanish",Sin hijos (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin origen (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9IfhfkdgCe148DdU1E9jgyb40z.jpg" group-title="Spanish",Sin origen (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tal como soy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqWky6GLXXxlKUJ6o4ePYP5MAlX.jpg" group-title="Spanish",Tal como soy (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dime cuando tú (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19wlQkxB3rg3IvkpptGY1rlMPvf.jpg" group-title="Spanish",Dime cuando tú (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La última fase (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0XdbQZiUPQATSjrw6Ar6tmvMK3.jpg" group-title="Spanish",La última fase (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La funeraria (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJ7yGNJFfByRIGWPFkHhwSzl9Je.jpg" group-title="Spanish",La funeraria (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El robo del siglo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTgErr8Kqht7q4QpnAoQPSYJ7ms.jpg" group-title="Spanish",El robo del siglo (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hogar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gShIscjUsRrrJ0LeKbaNf4vOthR.jpg" group-title="Spanish",Hogar (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las tres muertes de Marisela Escobedo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYO7mmLti4XtIszP6C7Uc7OQnOc.jpg" group-title="Spanish",Las tres muertes de Marisela Escobedo (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beber de tu sangre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4b6HY7rud6LMO00EatxrJfFaBJV.jpg" group-title="Spanish",Beber de tu sangre (2020)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/75749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una película de policías (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGqZ8RX1fj0YTbB963g8EACNs7z.jpg" group-title="Spanish",Una película de policías (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/76525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fondeados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytenWBdOd9UtMjyAsJuqBbTl67X.jpg" group-title="Spanish",Fondeados (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/76526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Distancia de rescate (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWVgahEaREAl8yIll1zE9HHeeYo.jpg" group-title="Spanish",Distancia de rescate (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/76527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Cadena (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MtLiyqEo1HkB7ynpO6wAG3E0HO.jpg" group-title="Spanish",La Cadena (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/76528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El caso Wanninkhof-Carabantes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkdQ3z1YyJvoy9pCLQzvWh68Nea.jpg" group-title="Spanish",El caso Wanninkhof-Carabantes (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/76529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuimos canciones (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vi7O7aHSultS7AcEpMVz30SAJw7.jpg" group-title="Spanish",Fuimos canciones (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/76530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Las Flores: La Película (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taSkrxVRwilWCdQqbwDwsqqa80t.jpg" group-title="Spanish",La Casa de Las Flores: La Película (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/76531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A mil kilómetros de la Navidad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmQCS5l9MZZsfLbNENExSkP1Myj.jpg" group-title="Spanish",A mil kilómetros de la Navidad (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anónima (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MfTZQPSC3XsSt4T8LtagnJtKHq.jpg" group-title="Spanish",Anónima (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Causalidad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqPTx3z2RVOvrIO3aJYO7avSavC.jpg" group-title="Spanish",Causalidad (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chilangolandia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNObb3Q1P2yO2Z14bs6AXx0cWVy.jpg" group-title="Spanish",Chilangolandia (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una Navidad no tan padre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBYBDWymgwKHrILlSLdR2d04RzS.jpg" group-title="Spanish",Una Navidad no tan padre (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Donde caben dos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uShw8wJ7K4ySrPtUWjGe8wwJ5fj.jpg" group-title="Spanish",Donde caben dos (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77212.avi
+#EXTINF:-1 tvg-id="" tvg-name="Sexo, pudor y lágrimas 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ip2iDBSXfdHeXpR2qETGr5Q76V.jpg" group-title="Spanish",Sexo, pudor y lágrimas 2 (2022)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Comediante (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsA8P4GRyAMtnNItf4dsOKZXeLh.jpg" group-title="Spanish",El Comediante (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A través de mi ventana (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4ra6aYqhwqqcddgzKMbkKjD8GV.jpg" group-title="Spanish",A través de mi ventana (2022)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Two.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4ra6aYqhwqqcddgzKMbkKjD8GV.jpg" group-title="Spanish",Two.2021
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mamá o papá (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yo4aBPuyWh8uB2VHPwK1O7R6WwO.jpg" group-title="Spanish",Mamá o papá (2021)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuarentones (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xARmbhKwPFc1oMkcis0pAHFBMdX.jpg" group-title="Spanish",Cuarentones (2022)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo es Gila (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6eEr6kp4tIqF6u7EZQnPDpe9w8.jpg" group-title="Spanish",Todo es Gila (2022)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hasta que nos volvamos a encontrar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45yBV8SuVkCAgp9UgvmrJQsTHLD.jpg" group-title="Spanish",Hasta que nos volvamos a encontrar (2022)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las niñas de cristal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmqocSNKCgMY5yrVOOmfCUHdXkl.jpg" group-title="Spanish",Las niñas de cristal (2022)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Haunting of Pendle Hill (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saAnjHDhK2dikwheCfXAdsyqrzR.jpg" group-title="Spanish",The Haunting of Pendle Hill (2022)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Aficiao (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zadokUC1BdBYQcqrBcSKRzUpELN.jpg" group-title="Spanish",Toy Aficiao (2022)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TQM (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LYFm81KacJv8CN1p8MC6ZZclgD.jpg" group-title="Spanish",TQM (2022)
+http://kkuu12.wanicelife.com:8880/movie/12m0290098/93914464/77852.mp4
